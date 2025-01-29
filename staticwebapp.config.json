@@ -1,0 +1,13 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "methods": [
+        "get"
+      ],
+      "headers": {
+        "X-Frame-Options": "DENY"
+      }
+    }
+  ]
+}
